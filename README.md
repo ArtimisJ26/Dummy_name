@@ -1,4 +1,4 @@
-Here is how I created this simple git repository on my devide (local machine, not linked with GitHub.com)
+Here is how I created this simple git repository on my device (local machine, not linked with GitHub.com)
 
 Step #1: Create a New Folder for your project
 
