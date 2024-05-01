@@ -25,3 +25,10 @@ Details of the Commands:-
 - Will commit i.e. record the current stage of the project folder.
 - '-m' parameter indicates that we are adding a commit message for our referance to know what changes we made in this commit. Followed by the actual message in double quotes ("_")
 - Hence, 'git commit -m "Initial Commit"' will record our first commit with the given commit message. It is a standard practice to label your first commit as "Initial Commit".
+
+# Unstage a staged file
+
+If you mistakenly '''git add''' a file. You can unstage it using the following command:
+'''git restore --staged "Add_nested_repository"'''
+
+Reference: [Link](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/git-unstage-file-all-index-commit-folder-add-delete)
